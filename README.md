@@ -8,4 +8,3 @@ Changes versus stock Migradoc
 =============================
 
 * Support Paragraph.AddImage(Stream)
-* 
